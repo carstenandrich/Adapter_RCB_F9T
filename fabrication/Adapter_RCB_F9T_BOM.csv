@@ -1,0 +1,22 @@
+Comment,Designator,Footprint,LCSC Part #
+"100n Unpolarized capacitor, small symbol","C1,C32,C33,C51,C53,C61,C63",C_0402_1005Metric,C307331
+"1u Unpolarized capacitor, small symbol","C11,C12,C23,C31,C34,C41,C42",C_0603_1608Metric,C15849
+"4u7 Unpolarized capacitor, small symbol","C21,C24,C52,C54,C62,C64",C_0603_1608Metric,C96446
+"2u2 Unpolarized capacitor, small symbol",C22,C_0603_1608Metric,C19666
+"SMF05CT1G TVS Diode Array, 5.5V Standoff, 5 Channels, SC-70-6 package",D1,SOT-363_SC-70-6,C15879
+D_TVS Bidirectional transient-voltage-suppression diode,"D51,D61",D_0402_1005Metric,C316049
+"600R Ferrite bead, small symbol","FB11,FB21,FB31",L_0805_2012Metric,C1017
+"100R Ferrite bead, small symbol","FB41,FB42",L_0805_2012Metric,C1015
+USB_B_Micro USB Micro Type B connector,J1,USB_Micro-B_Molex_47346-0001,C132560
+"Conn_01x04 Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,PinHeader_1x04_P2.54mm_Horizontal,
+RCB_F9T ,J41,RCB_F9T,
+"Conn_Coaxial coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)","J51,J61",SMA_Rosenberger_32K145-400L5_EdgeMount_Horizontal,
+"SolderJumper_2_Bridged Solder Jumper, 2-pole, closed/bridged","JP21,JP22",SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,
+"1M Resistor, small symbol","R1,R21",R_0402_1005Metric,C26083
+"330k Resistor, small symbol",R22,R_0402_1005Metric,C25778
+"4k7 Resistor, small symbol","R31,R41",R_0402_1005Metric,C25900
+"49.9 Resistor, small symbol","R51,R61",R_0805_2012Metric,C17720
+"XC6206PxxxMR Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23",U11,SOT-23,C5446
+"LM27761 low-noise regulated switched-capacitor voltage inverter with 2.7V-5.5V input to -1.5 to -5V Output Voltage, WSON-8",U21,WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm,C129351
+"CP2102-GMR-xQFN28 USB to UART master bridge, QFN-28",U31,QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,C6568
+"BUF602xDBV High-Speed, 1000 MHz, Closed-Loop Buffer, SOT23-5","U51,U61",SOT-23-5,
